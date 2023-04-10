@@ -1,7 +1,8 @@
 # nutrex-re
   Nutrex Research Project
   =============================
-  nutrex  research project for interview contiue 05-apr-2023 due to late submited some section i've create today 11:00AM to 5 PM so please check let me know because i'am just prove myself in this task to brijesh sir if you give me another chance.
+  nutrex  research project for interview contiue 05-apr-2023 due to late submited some section i've create today 11:00AM to 5 PM so please check let me know because i'am just prove myself in this task.
+please check brijesh if possible because i'm out of station 09-04-2023 out of station.
   
   
   This is the GitHub repository for the Nutrex research project, which aims to investigate the effectiveness of Nutrex supplements in improving athletic performance.
